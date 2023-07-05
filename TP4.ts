@@ -14,7 +14,6 @@ class Candidato{
         this.partido = PartidoPolitico;
     }
 }
-
 class Lista {
     nombre: string;
     candidatos: Candidato;
